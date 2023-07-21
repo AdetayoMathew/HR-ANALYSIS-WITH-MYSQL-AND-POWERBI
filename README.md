@@ -56,3 +56,8 @@ Data Visualization - PowerBI
 ...........................Leggo.........................
 
 ![Screenshot (568)](https://github.com/Mathex7/HR-ANALYSIS-WITH-MYSQL-AND-POWERBI/assets/106633060/1b851f2c-bc7a-493d-8f7d-01f4fe71fc88)
+
+
+
+
+
