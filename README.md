@@ -47,7 +47,12 @@ a. Determine the distribution of employee tenure within each department.
 
 By conducting this analysis, we aim to gain insights into various HR metrics that can inform decision-making, identify areas of improvement, and promote a more inclusive and productive work environment.
 
-# Data sourcing : youtube
+# Data sourcing : Kaggle
+
+# Tools : 
+Data Cleaning & Analysis - MySQL Workbench
+
+Data Visualization - PowerBI
 
 # SQL Transformation Script
 
@@ -134,13 +139,10 @@ FROM hr_dataset;
 SELECT COUNT(*) FROM hr_dataset
 WHERE Employee_age < 18; 
 
+```
 
 
 
-# Tools : 
-Data Cleaning & Analysis - MySQL Workbench
-
-Data Visualization - PowerBI
 
 # Summary of Findings
 * There are more male employees
